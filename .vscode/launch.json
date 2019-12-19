@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestsEdan",
+            "request": "launch",
+            "mainClass": "TestsEdan",
+            "projectName": "Assignment3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestsOhad",
+            "request": "launch",
+            "mainClass": "TestsOhad",
+            "projectName": "Assignment3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Part2",
+            "request": "launch",
+            "mainClass": "Part2",
+            "projectName": "Assignment3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "Assignment3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Part1",
+            "request": "launch",
+            "mainClass": "Part1",
+            "projectName": "Assignment3"
+        }
+    ]
+}
